@@ -7,4 +7,4 @@ Travel List is a simple web application built with React.js that allows users to
 - Add and delete items to/from your travel list.
 - Mark items as "checked" when you've packed them.
 - Clear the entire list or individual items with ease.
-- Sort the items by input,name or packed status
+- Sort the items by input,name or packed status.
